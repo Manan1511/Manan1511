@@ -15,15 +15,6 @@
 
 ---
 
-## 💻 About Me
-
-- 🎓 Computer Science & Engineering undergraduate focusing on software engineering and full-stack systems.
-- ⚙️ Building robust backends with Node.js and FastAPI, paired with type-safe modern frontends.
-- 🧪 Working with sensor integration, signal processing, and practical ML-driven applications.
-- 🛠️ Currently exploring scalable database architectures with Drizzle and serverless PostgreSQL.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
