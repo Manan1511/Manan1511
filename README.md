@@ -87,10 +87,10 @@
   <table>
     <tr>
       <td valign="middle" align="center">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Manan1511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manan1511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats"/>
       </td>
       <td valign="middle" align="center">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan1511&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=powershell" alt="Top Languages"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan1511&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=powershell" alt="Top Languages"/>
       </td>
     </tr>
   </table>
@@ -101,7 +101,11 @@
 
   <br/><br/>
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manan1511&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manan1511/Manan1511/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manan1511/Manan1511/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Manan1511/Manan1511/output/github-contribution-grid-snake.svg" width="90%"/>
+  </picture>
 </div>
 
 ---
