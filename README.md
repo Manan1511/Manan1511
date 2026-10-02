@@ -38,8 +38,11 @@
 
 **Frontend & Backend**
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
@@ -63,27 +66,43 @@
 
 ## 🚀 Featured Projects
 
-* 🧠 **[Neurological Condition Detection](https://github.com/Manan1511/Neurological-Condition-Detection)**  
-  Wearable sensor integration and signal processing pipeline to detect and analyze motor symptoms/tremors for condition monitoring.
-
-* 📈 **[Sentiment Stocker](https://github.com/Manan1511/Sentiment_Stocker)**  
-  Data aggregation and sentiment analysis engine mapping market-related text data against stock trend volatility.
-
-* 🎯 **[CoachLens](https://github.com/Manan1511/CoachLens)**  
-  Computer vision and analysis tool delivering automated coaching feedback and motion tracking metrics.
+<div align="center">
+  <a href="https://github.com/Manan1511/Neurological-Condition-Detection">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan1511&repo=Neurological-Condition-Detection&theme=tokyonight&hide_border=true" alt="Neurological-Condition-Detection"/>
+  </a>
+  <a href="https://github.com/Manan1511/Sentiment_Stocker">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan1511&repo=Sentiment_Stocker&theme=tokyonight&hide_border=true" alt="Sentiment_Stocker"/>
+  </a>
+  <br/>
+  <a href="https://github.com/Manan1511/CoachLens">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manan1511&repo=CoachLens&theme=tokyonight&hide_border=true" alt="CoachLens"/>
+  </a>
+</div>
 
 ---
 
 ## 📊 Activity & Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manan1511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan1511&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle" align="center">
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=Manan1511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+      </td>
+      <td valign="middle" align="center">
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manan1511&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=powershell" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Manan1511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+  <br/>
+
+  <img width="72%" src="https://streak-stats.demolab.com?user=Manan1511&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manan1511&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
