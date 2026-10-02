@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manan 👋</h1>
+<h1 align="center">hi, i'm manan</h1>
 
 <p align="center">
   <a href="https://manan1511.github.io/Portfolio/">
